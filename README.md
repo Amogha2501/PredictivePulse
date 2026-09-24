@@ -134,15 +134,4 @@ python src/02_model_training.py
 python src/03_model_evaluation.py
 ```
 
----
 
-## 👥 Authors & Contributors
-
-- **Raksha P R** ([@Raksha-21](https://github.com/Raksha-21))
-- **Amogha H Shetty** ([@Amogha2501](https://github.com/Amogha2501))
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
